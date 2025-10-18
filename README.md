@@ -1,5 +1,4 @@
 # ComandosGit
-``
 
 ## Al iniciar un proyecto 
 explicacion | comandos
